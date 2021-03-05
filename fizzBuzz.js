@@ -19,7 +19,7 @@
     //{ return false; } 
     //};
 
-    //Functions implemented a thought in the first milestone is incorrect.I'm pretty sure you wanted 
+    //Functions implemented in the first milestone is incorrect.I'm pretty sure you wanted 
     //us to print out through 1 to 10 with the appropriate inputs of Fizz and Buzz .
     
     
